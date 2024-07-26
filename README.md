@@ -7,8 +7,8 @@ This repository contains the sales performance data for AtliQ Hardwares from 201
 The sales report highlights the overall sales performance and identifies top-performing customers. Below is a summary of the key metrics and top customers.
 
 
-![salespic](sales1report.png)
-![salespic2](sales2reports.png)
+![salespic](sales1reports.png)
+![salespic2](sales2report.png)
 
 ### Key Metrics
 
